@@ -30,7 +30,6 @@ The game features a player-controlled spaceship, enemy spawning with increasing 
 ## 📥 Download
 - Play the latest build here:  
   👉 [Download Windows Build](https://aryashrishti76.itch.io/2dshooter)  
-- Or check out the **source code** in this repository.
 
 ---
 
